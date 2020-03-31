@@ -1,5 +1,11 @@
 # Smaller alternatives in React ecosystem
 
+## Redux
+
+Alternatives:
+
+1. Zustand: https://github.com/react-spring/zustand
+
 ## React
 
 Alternatives:

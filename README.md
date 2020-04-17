@@ -9,8 +9,9 @@
 
 Alteratives:
 
+1. Redaxios@0.2.0 (884b): https://github.com/developit/redaxios
 1. Thwack@0.10 (1.8kb): https://github.com/donavon/thwack
-2. ky@0.19.0 (2.6kb): https://github.com/sindresorhus/ky
+1. ky@0.19.0 (2.6kb): https://github.com/sindresorhus/ky
 
 ## React Ecosystem
 

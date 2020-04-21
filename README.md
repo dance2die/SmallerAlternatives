@@ -5,6 +5,16 @@
 
 > Sizes are gzipped sizes.
 
+### Query String Parser
+
+[qs](https://www.npmjs.com/package/qs)
+
+Alternatives:
+
+1. querystring@0.2.0 (129b): https://www.npmjs.com/package/qs
+1. querystringify@2.1.1 (452b): https://github.com/unshiftio/querystringify
+1. query-string@6.12.1 (1.9kb): https://www.npmjs.com/package/query-string
+
 ### XMLHttpRequest/Fetch
 
 Alteratives:

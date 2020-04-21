@@ -7,7 +7,7 @@
 
 ### Query String Parser
 
-[qs](https://www.npmjs.com/package/qs)
+[qs@6.9.3](https://www.npmjs.com/package/qs) (3.6kb)
 
 Alternatives:
 

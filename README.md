@@ -46,3 +46,14 @@ React Router: https://reacttraining.com/react-router/
 
 Alternatives:
 1. Wouter: https://github.com/molefrog/wouter
+
+### CSS in JS
+
+Styled Components:  https://styled-components.com/  
+Emotion: https://emotion.sh/
+
+Alternatives:
+
+1. csx: https://github.com/cxs-css/cxs
+  - This is not React-dependent
+

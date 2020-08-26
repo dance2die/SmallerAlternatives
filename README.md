@@ -46,6 +46,7 @@ React Router: https://reacttraining.com/react-router/
 
 Alternatives:
 1. Wouter: https://github.com/molefrog/wouter
+1. itsy-bitsy-router (1kB min+gzip): https://github.com/synecdokey/itsy-bitsy-router
 
 ### CSS in JS
 

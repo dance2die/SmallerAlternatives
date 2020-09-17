@@ -5,6 +5,20 @@
 
 > Sizes are gzipped sizes.
 
+### Date utility library
+
+[memoment.js](https://momentjs.com/) (280.9kB min, 70.4kB min+gzipped)  
+Moment project is now in maintenance mode; No more new features to be added.
+
+https://momentjs.com/docs/#/-project-status/
+
+Alternatives:
+
+1. Day.js: https://day.js.org/
+1. date-fns: https://date-fns.org/
+1. Luxon: https://moment.github.io/luxon/
+
+
 ### Query String Parser
 
 [qs@6.9.3](https://www.npmjs.com/package/qs) (3.6kb)

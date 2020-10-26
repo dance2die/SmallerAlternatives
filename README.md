@@ -73,3 +73,11 @@ Alternatives:
 1. csx: https://github.com/cxs-css/cxs
     - This is not React-dependent
 
+
+## Vue Ecosystem
+
+### Vue
+
+Alternatives:
+
+1. Lucia: https://github.com/aidenybai/lucia
